@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋, I'm Daniel Braga
+
+<h3 align="left">Front-End developer from Brazil</h3>
+
+- 🔭 I’m currently working on Plataform Digital in Reactjs.
+- 🌱 I’m currently learning **nodejs and python**.
+- 💬 Ask me about  **javascript, reactjs, nodejs, react native, micro front-end, front-end development**.
 
 <!--
 **bragadaniel/bragadaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bragadaniel&show_icons=true&locale=en&layout=compact" alt="bragadaniel" /></p>
 -->
