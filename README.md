@@ -1,10 +1,12 @@
-## Hi there 👋, I'm Daniel Braga
+## Hi there 👋, I'm Daniel Braga!
 
-<h3 align="left">Front-End developer from Brazil</h3>
+### Front-End developer from Brazil 🇧🇷
 
 - 🔭 I’m currently working on Plataform Digital in Reactjs.
 - 🌱 I’m currently learning **nodejs and python**.
 - 💬 Ask me about  **javascript, reactjs, nodejs, react native, micro front-end, front-end development**.
+
+![](https://komarev.com/ghpvc/?username=bragadaniel&style=for-the-badge&color=brightgreen)
 
 <!--
 **bragadaniel/bragadaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
